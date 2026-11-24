@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kalendarz>
+    <kontakty>
+        <kontakt id="1">
+            <imie>Anna</imie>
+            <nazwisko>Nowak</nazwisko>
+            <telefon>+48 600 100 200</telefon>
+            <email>a.nowak@gmail.com</email>
+            <zdarzeniaIds>
+                <zdarzenieId>6</zdarzenieId>
+            </zdarzeniaIds>
+        </kontakt>
+        <kontakt id="2">
+            <imie>Daryna</imie>
+            <nazwisko>Pasiura</nazwisko>
+            <telefon>+48 609 000 200</telefon>
+            <email>d.pasiura@gmail.com</email>
+            <zdarzeniaIds/>
+        </kontakt>
+        <kontakt id="3">
+            <imie>Ewa</imie>
+            <nazwisko>Kamińska</nazwisko>
+            <telefon>+48 603 400 500</telefon>
+            <email>e.kaminska@gmail.com</email>
+            <zdarzeniaIds/>
+        </kontakt>
+        <kontakt id="4">
+            <imie>Jan</imie>
+            <nazwisko>Kowalski</nazwisko>
+            <telefon>+48 700 700 800</telefon>
+            <email>jan.kowalski@example.com</email>
+            <zdarzeniaIds>
+                <zdarzenieId>1</zdarzenieId>
+            </zdarzeniaIds>
+        </kontakt>
+        <kontakt id="5">
+            <imie>Krzysztof</imie>
+            <nazwisko>Lewandowski</nazwisko>
+            <telefon>+48 602 300 400</telefon>
+            <email>k.lewandowski@gmail.com</email>
+            <zdarzeniaIds/>
+        </kontakt>
+        <kontakt id="6">
+            <imie>Katarzyna</imie>
+            <nazwisko>Woźniak</nazwisko>
+            <telefon>+48 605 600 700</telefon>
+            <email>k.wozniak@gmail.com</email>
+            <zdarzeniaIds/>
+        </kontakt>
+        <kontakt id="7">
+            <imie>Łukasz</imie>
+            <nazwisko>Mazur</nazwisko>
+            <telefon>+48 606 700 800</telefon>
+            <email>l.mazur@gmail.com</email>
+            <zdarzeniaIds/>
+        </kontakt>
+        <kontakt id="8">
+            <imie>Marek</imie>
+            <nazwisko>Szymański</nazwisko>
+            <telefon>+48 604 500 600</telefon>
+            <email>m.szymanski@gmail.com</email>
+            <zdarzeniaIds/>
+        </kontakt>
+        <kontakt id="9">
+            <imie>Olena</imie>
+            <nazwisko>Kovalenko</nazwisko>
+            <telefon>+48 608 900 100</telefon>
+            <email>o.kovalenko@gmail.com</email>
+            <zdarzeniaIds/>
+        </kontakt>
+        <kontakt id="10">
+            <imie>Piotr</imie>
+            <nazwisko>Zając</nazwisko>
+            <telefon>+48 601 200 300</telefon>
+            <email>p.zajac@gmail.com</email>
+            <zdarzeniaIds>
+                <zdarzenieId>3</zdarzenieId>
+            </zdarzeniaIds>
+        </kontakt>
+        <kontakt id="11">
+            <imie>Tomasz</imie>
+            <nazwisko>Dąbrowski</nazwisko>
+            <telefon>+48 607 800 900</telefon>
+            <email>t.dabrowski@gmail.com</email>
+            <zdarzeniaIds/>
+        </kontakt>
+    </kontakty>
+    <zdarzenia>
+        <zdarzenie id="1">
+            <nazwa>Spotkanie integracyjne</nazwa>
+            <opis>spotkanie w biurze</opis>
+            <data>2026-05-15T18:00</data>
+            <lat>52.258333</lat>
+            <lng>21.0</lng>
+            <kontaktyIds>
+                <kontaktId>4</kontaktId>
+            </kontaktyIds>
+        </zdarzenie>
+        <zdarzenie id="2">
+            <nazwa>Projekt Zespołowy 04</nazwa>
+            <opis>zajęcia offline</opis>
+            <data>2026-03-27T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds/>
+        </zdarzenie>
+        <zdarzenie id="3">
+            <nazwa>Projekt Zespołowy 05</nazwa>
+            <opis>zajęcia offline</opis>
+            <data>2026-03-24T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds>
+                <kontaktId>10</kontaktId>
+            </kontaktyIds>
+        </zdarzenie>
+        <zdarzenie id="4">
+            <nazwa>Projekt Zespołowy 01</nazwa>
+            <opis>zajęcia online</opis>
+            <data>2026-03-28T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds/>
+        </zdarzenie>
+        <zdarzenie id="5">
+            <nazwa>Projekt Zespołowy 02</nazwa>
+            <opis>zajęcia online</opis>
+            <data>2026-03-25T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds/>
+        </zdarzenie>
+        <zdarzenie id="6">
+            <nazwa>Projekt Zespołowy 03</nazwa>
+            <opis>zajęcia online</opis>
+            <data>2026-03-26T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds>
+                <kontaktId>1</kontaktId>
+            </kontaktyIds>
+        </zdarzenie>
+        <zdarzenie id="7">
+            <nazwa>Projekt Zespołowy 06</nazwa>
+            <opis>zajęcia online</opis>
+            <data>2026-03-29T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds/>
+        </zdarzenie>
+        <zdarzenie id="8">
+            <nazwa>Projekt Zespołowy 07</nazwa>
+            <opis>zajęcia online</opis>
+            <data>2026-03-30T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds/>
+        </zdarzenie>
+        <zdarzenie id="9">
+            <nazwa>Projekt Zespołowy 08</nazwa>
+            <opis>zajęcia online</opis>
+            <data>2026-04-02T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds/>
+        </zdarzenie>
+        <zdarzenie id="10">
+            <nazwa>Projekt Zespołowy 09</nazwa>
+            <opis>zajęcia online</opis>
+            <data>2026-04-01T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds/>
+        </zdarzenie>
+        <zdarzenie id="11">
+            <nazwa>Projekt Zespołowy 10</nazwa>
+            <opis>zajęcia online</opis>
+            <data>2026-03-31T08:00</data>
+            <lat>50.544444</lat>
+            <lng>21.336111</lng>
+            <kontaktyIds/>
+        </zdarzenie>
+    </zdarzenia>
+</kalendarz>
